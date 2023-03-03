@@ -3,7 +3,7 @@
 This project utilizes SQL queries to clean and manipulate data. 
 
 The queries used seek to achieve some of the following:
-- Standardizing data format
+- Standardizing date format
 - Populating missing data
 - Splitting columns 
 - Changing string values
